@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+/* the form boxes style */
+.formBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #61dafb;
+  height: 100vh;
+}
