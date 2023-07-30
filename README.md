@@ -14,47 +14,47 @@ Built with:
 
 ### BACKEND FOLDER
  
-Cd into the backend folder.
-cd backend
+Cd into the backend folder.  
+cd backend  
 
-Start by creating a virtual enviorment.
-python3 -m venv env 
+Start by creating a virtual enviorment.  
+python3 -m venv env   
 
-Start the venv: 
-source env/bin/activate or  . env/bin/activate
+Start the venv:  
+source env/bin/activate or  . env/bin/activate  
 
-Install all libreries:
-pip install beatifulsoup4 gensim flask requests torch torchvision nltk bs4
+Install all libreries:  
+pip install beatifulsoup4 gensim flask requests torch torchvision nltk bs4  
 
-Run this once in your terminal:
-$ python
->>> import nltk
->>> nltk.download('punkt')
+Run this once in your terminal:  
+$ python  
+>>> import nltk  
+>>> nltk.download('punkt')  
 
 ### FRONTEND FOLDER
  
-Cd into the frontend folder.
-cd frontend
+Cd into the frontend folder.  
+cd frontend  
 
-Install all dependencies.
-npm i or npm install 
+Install all dependencies.  
+npm i or npm install  
 
 ## Usage
  
-After installing everything, cd into the backend and start the sever:
+After installing everything, cd into the backend and start the sever:  
 
-(activate virtual enviorment first) 
-source env/bin/activate or  . env/bin/activate
+(activate virtual enviorment first)  
+source env/bin/activate or  . env/bin/activate  
 
 run: 
-python train.py <- ( Most run this everytime to train the bot. )
-python chat.py <- ( Runs in your terminal )
+python train.py <- ( Most run this everytime to train the bot. )  
+python chat.py <- ( Runs in your terminal )  
 
-python main.py <- ( Runs on localhost with React UI )
+python main.py <- ( Runs on localhost with React UI )  
 
 ## Contributing
 
-Have a look at intents.json Define a new tag, possible patterns, and possible responses for the chat bot. You have to re-run the training whenever this file is modified.
+Have a look at intents.json Define a new tag, possible patterns, and possible responses for the chat bot. You have to re-run the training whenever this file is modified.  
 
-You can also look at the web_scraper.py and customize to your needs. 
+You can also look at the web_scraper.py and customize to your needs.  
 
