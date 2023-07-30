@@ -5,10 +5,10 @@ This project is a conversational AI chatbot with web-scraping/summary features.
 Inside the backend folder is where the magic happens, all the ai logic and web-scraping is in there.
 
 Built with:
- Python - AI logic
- Flask - Backend
- React - Frontend
- Postgres - Database
+ Python - AI logic  
+ Flask - Backend  
+ React - Frontend  
+ Postgres - Database  
 
 ## Installation
 
