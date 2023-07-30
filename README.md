@@ -58,3 +58,4 @@ Have a look at intents.json Define a new tag, possible patterns, and possible re
 
 You can also look at the web_scraper.py and customize to your needs.  
 
+## PICTURES 
