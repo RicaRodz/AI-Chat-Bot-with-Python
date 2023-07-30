@@ -1,4 +1,4 @@
-# Project Name
+# Electrabot
 
 Ai Chat bot with Python.
 This project is a conversational AI chatbot with web-scraping/summary features. 
