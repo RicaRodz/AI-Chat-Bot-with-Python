@@ -1,0 +1,32 @@
+# Python Virtual Environment
+env/
+
+# Node.js dependencies
+node_modules/
+
+# React build output
+build/
+config/
+
+# Compiled Python files
+*.pyc
+
+# Python cache
+__pycache__/
+
+# Development and environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Log files
+*.log
+
+# Cached data
+.cache/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
